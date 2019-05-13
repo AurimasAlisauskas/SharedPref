@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shared Pref</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="save_button">Save</string>
+</resources>
